@@ -10,7 +10,7 @@
 
 **Rerun** allows the user to record and play back activities from a VR scene. It is built on top of the [Ultimate Replay 2.0](https://assetstore.unity.com/packages/tools/camera/ultimate-replay-2-0-178602) (**UR**) asset from Unity's Asset Store.
 
-This repository is meant to be used as **a git submodule inside the Assets folder of a Unity Project**. See the [Rerun Sample Project](https://github.com/FAR-Lab/Rerun-Sample-Project) as an example of how Rerun can be used within a project.
+This repository is meant to be used as **a git submodule inside the Assets folder of a Unity Project**. See the [Rerun Sample Project](https://github.com/IRL-CT/Rerun-Sample-Project) as an example of how Rerun can be used within a project.
 
 Extending Rerun requires knowledge of UR. See UR's user guide and samples for more information.
 
